@@ -14,7 +14,7 @@
   <img align="center" alt="Igor-pycharm" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Igor-anaconda" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />       
   <img align="center" alt="Igor-jupyter" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  
+  <img align="center" alt="Igor-sqlalchemy" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
   
   ###
   
