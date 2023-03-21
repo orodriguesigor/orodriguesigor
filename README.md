@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Igor Rodrigues 🤓
 
-- 🌱 I’m currently learning: Python, data science and machine learning. 
-- 🎥 I'm a post-production assistant, curious about data-driven 
+- 🌱 I’m currently learning: Python, DataBase, DataWarehouse and Data Engineer. 
+- 🎥 I'm a post-production assistant, curious about data-driven culture 
 
 <div align="center">
   <a href="https://linktr.ee/orodriguesigor">
